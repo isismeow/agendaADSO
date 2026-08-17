@@ -1,0 +1,12 @@
+{
+  "contactos": [
+    {
+      "nombre": "Valeria Torres",
+      "telefono": "310 245 6789",
+      "correo": "valuu@gmail.com",
+      "etiqueta": "Amiga",
+      "id": "tiaTgUBsEbk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
